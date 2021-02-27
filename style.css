@@ -1,0 +1,16 @@
+.primary-color {
+  background-color: #c6dcff;
+}
+
+.jumbotron {
+  padding-top: 12rem;
+  background-color: #0d6efd;
+}
+
+.jumbotron img {
+  width: 200px;
+}
+
+section {
+  padding-top: 5rem;
+}
